@@ -1,0 +1,8 @@
+4:3 resolutions fked up
+Chrome sizes it wrong
+Pixel based Positioning can throws off key elements on non standard resolutions.
+Must be played in browser fullscreen
+console menu throws some on screen floating boxes out of whack
+Users can still bypass the zoom block, though, on chrome this could probably fix some things
+Difficuty is just a mater of time once the pattern is figured out, Easy is a decent experiance, Hard is a chore. // can't really fix this
+
